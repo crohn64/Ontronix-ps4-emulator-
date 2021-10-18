@@ -1,0 +1,11 @@
+List of compatible games(by compatible meaning that the main menu loads):
+
+-Minecraft(for some reason only the first release works;Menu loads)
+
+-PvZ gw2(ea logo pops up only)
+
+-Flappy bird(homebrew)
+
+-Fortnite(somewhat gets to menu)
+
+More games are coming soon once I buy more. I only got this games and a ps4 for this project.
